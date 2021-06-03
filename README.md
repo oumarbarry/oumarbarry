@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oumarbarry
-- 👀 I’m interested in python
+- 👀 I’m interested in python & js
 - 🌱 I’m currently learning so many things
 - 💞️ I’m looking to collaborate on valuable projects
 - 📫 How to reach me: oumar.barry1202@gmail.com
