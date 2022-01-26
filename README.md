@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @oumarbarry
-- 👀 I’m interested in python & js
-- 🌱 I’m currently learning so many things
-- 💞️ I’m looking to collaborate on valuable projects
+- 👋 Hello, I'm @oumarbarry, a 23-year-old PYTHON & WEB Developer
+- 👀 You can learn more about me here: https://tanjiro1202.notion.site/oumar-py-a8b5d8278eb04091914fcd215180ee1a
+- 🌱 I've been developing for 4 years and I'm still learning so many things (programming is really so cool)
+- 💞️ I am looking to collaborate on valuable projects
 - 📫 How to reach me: oumar.barry1202@gmail.com
 
 <!---
