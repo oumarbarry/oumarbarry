@@ -1,11 +1,11 @@
 
-**Strive not to be a success, but rather to be of value.** - A. Einstein
+**Effective performance is preceded by painstaking preparation.** - B.Tracy
 
 **Learning never exhausts the mind.** - L. da Vinci
 
 **Don't watch the clock. Do what it does. Keep going.** - S.Levenson
 
-**Effective performance is preceded by painstaking preparation.** - B.Tracy
+**Strive not to be a success, but rather to be of value.** - A. Einstein
 
 **The noblest search is the search for excellence.** - L.B. Johnson
 
