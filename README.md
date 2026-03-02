@@ -1,15 +1,5 @@
 Code - Manga - Code
 
-<br>
-
-**Effective performance is preceded by painstaking preparation.** - B.Tracy
-
-**Learning never exhausts the mind.** - L. da Vinci
-
-**Strive not to be a success, but rather to be of value.** - A. Einstein
-
-**The noblest search is the search for excellence.** - L.B. Johnson
-
 <!--
 **oumarbarry/oumarbarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
